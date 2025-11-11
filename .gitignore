@@ -13,6 +13,7 @@ rust_ownership/target
 rust101/target
 rust_functions_expressions_statements/target
 rust_conditions_controlflow/target
+rust_memorymanagement/target
 .DS_Store
 .vs
 .vscode
